@@ -16,5 +16,5 @@ Get Started:
 Clone the repository
 Install dependencies on
 frontend and backend
-Run the backend and frontend servers using nom run dev
+Run the backend and frontend servers using npm run dev
 Register as a student or employer and start exploring projects!
